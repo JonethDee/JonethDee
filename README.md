@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JonethDee
-- 👀 I’m interested in Computer Science, Programming
-- 🌱 I’m currently learning Java programming Language
+- 👀 I’m interested in Data Science, Web-Development
 - 📫 How to reach me JonethDamdee@gmail.com
 
 <!---
