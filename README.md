@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonethDee
-- 👀 I’m interested in Data Science, Web-Development
+- 👀 I’m interested in Information Technology and Cybersecurity
 - 📫 How to reach me JonethDamdee@gmail.com
 
 <!---
