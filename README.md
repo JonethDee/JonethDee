@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+  - [SOC Automation Using Wazuh and Sysmon](https://github.com/JonethDee/SOC-automation-with-Wazuh-and-Sysmon/blob/main/SOC_%20Wazuh%20and%20Sysmon.pdf)
   - [Active Directory Home Lab](https://github.com/JonethDee/Active-Directory)
   - [Launching and Securing an EC2 Instance](https://github.com/JonethDee/AWS-EC2-Report/blob/main/AWS%20Report.pdf)
   - [Vulnerability Management and System Hardening](https://github.com/JonethDee/Systems-Hardening/blob/main/System%20Hardening%20-%20Sheet1.pdf)
