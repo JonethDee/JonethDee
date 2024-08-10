@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Security Orchestration, Automation, and Response(SOAR) System](https://github.com/JonethDee/SOAREDR/blob/main/Security%20Orchestration%2C%20Automation%2C%20and%20Response%20(SOAR)%20System%20(1).pdf)
+  - [Security Orchestration, Automation, and Response(SOAR) System](https://github.com/JonethDee/SOAR-EDR/blob/main/Security%20Orchestration%2C%20Automation%2C%20and%20Response%20(SOAR)%20System%20(1).pdf)
   - [SOC Automation Using Wazuh and Sysmon](https://github.com/JonethDee/SOC-automation-with-Wazuh-and-Sysmon/blob/main/SOC_%20Wazuh%20and%20Sysmon.pdf)
   - [Active Directory Home Lab](https://github.com/JonethDee/Active-Directory)
   - [Launching and Securing an EC2 Instance](https://github.com/JonethDee/AWS-EC2-Report/blob/main/AWS%20Report.pdf)
